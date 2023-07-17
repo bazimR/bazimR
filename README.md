@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web/android development<br>👯 I’m looking to collaborate on web/android related<br>🌱 I’m currently learning react js and kotlin<br>
+🔭 I’m currently working on web/android development<br>👯 I’m looking to collaborate on web/android related<br>🌱 I’m currently learning react js and react native<br>
 
 
 ## 🌐 Socials:
