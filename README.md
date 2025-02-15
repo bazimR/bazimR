@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web and Mobile Front-end.<br>🌱 I’m currently learning Android development.<br>⚡ Fun fact I am full Stack Web/Mobile developer.
+🔭 I’m currently working on Web and Mobile Front-end.<br>🌱 I’m currently learning IOS development.<br>⚡ Fun fact I am full Stack Web/Mobile developer.
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bazimR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
