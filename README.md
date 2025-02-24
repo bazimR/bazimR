@@ -16,10 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=bazimR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=bazimR&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
