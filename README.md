@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web and Mobile Front-end.<br>🌱 I’m currently learning IOS development.<br>⚡ Fun fact I am full Stack Web/Mobile developer.
+🔭 I’m currently working on Web and Mobile Front-end.<br>🌱 I’m currently learning IOS development.<br>⚡ Fun fact I am full Stack Web/Mobile Engineer.
 
 
 ## 🌐 Socials:
